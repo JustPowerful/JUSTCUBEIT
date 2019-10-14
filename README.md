@@ -2,7 +2,7 @@
 
 ![photo](https://www.mediafire.com/convkey/35d4/k3c162zb2ist85xzg.jpg)
 
- I started this game at 2018 when i was 15 years old , i didn't complete the whole project because it'll took me time so i made some random spawners that will make Levels **Unlimited** .
+ I started this game at 2018 when i was 15 years old , i didn't complete the whole project because it'll take a lot of time so i made some random spawners that will make the Levels **Unlimited** .
  
  **Requires : Unity 2019.01** // I've added some changes , so maybe you can find some issues , just report them .
  
